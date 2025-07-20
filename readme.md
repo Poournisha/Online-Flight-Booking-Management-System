@@ -1,2 +1,4 @@
-# Art-Gallery-Management-System
-The Art Gallery Management System (AGMS) is a dynamic web-based platform developed using PHP and MySQL, hosted locally through XAMPP. This system is designed to digitize and simplify the process of managing art collections, artists, exhibitions, and customer interactions for art galleries or individual curators.
+# Online-Flight-Booking-Management-System
+A web-based flight booking system using PHP, MySQL, and XAMPP. Users can search flights, book tickets, and manage bookings. Admins can manage flights and users. Ideal for learning web development, database integration, and CRUD operations.
+
+D
